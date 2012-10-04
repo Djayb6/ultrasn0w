@@ -5,8 +5,10 @@ This is an attempt to reverse ultrasn0w 1.2.7 for iPhone3,1
 
 Requirements
 -------
-Theos.
-ultrasn0w 1.2.7.
+Theos
+
+ultrasn0w 1.2.7
+
 CommCenterClassic from 5.1.1 IPSW.
 
 How can you contribute
